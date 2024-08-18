@@ -124,7 +124,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
-env/
+# env/
 venv/
 ENV/
 env.bak/
@@ -153,6 +153,12 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+Miniconda3-latest-MacOSX-arm64.sh
+binder_design_env/
+RFdiffusion/
+
+*.csv
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
