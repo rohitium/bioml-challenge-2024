@@ -1,0 +1,21 @@
+[{
+ "name": "CD20-control-6vja",
+ "modelSeeds": [
+  "1"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "NCEPANPSEKNSPSTQYC",
+    "count": 1
+   }
+  },
+  {
+   "proteinChain": {
+    "sequence": "QVQLQQPGAELVKPGASVKMSCKASGYTFTSYNMHWVKQTPGRGLEWIGAIYPGNGDTSYNQKFKGKATLTADKSSSTAY",
+    "count": 1
+   }
+  }
+ ]
+}
+]

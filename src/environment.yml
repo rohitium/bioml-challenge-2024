@@ -1,0 +1,13 @@
+name: openmm-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - openmm
+  - openmmtools
+  - pymbar
+  - mdtraj
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas

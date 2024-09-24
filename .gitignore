@@ -157,6 +157,7 @@ cython_debug/
 Miniconda3-latest-MacOSX-arm64.sh
 binder_design_env/
 RFdiffusion/
+chai-lab/
 
 *.csv
 
@@ -170,3 +171,7 @@ RFdiffusion/
 *.pt
 *.pkl
 *.zip
+
+terms_of_use.md
+
+*.dcd

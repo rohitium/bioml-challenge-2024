@@ -1,0 +1,21 @@
+[{
+ "name": "CD20-design1-6vja",
+ "modelSeeds": [
+  "1"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "NCEPANPSEKNSPSTQYC",
+    "count": 1
+   }
+  },
+  {
+   "proteinChain": {
+    "sequence": "QVQLQQPGAELVKPGASVKMSCKASGYTFTWVKQTPGRGLEWIGAIYPGNGDTSYNQKFKGKATLTADKSSSTAYSYNMH",
+    "count": 1
+   }
+  }
+ ]
+}
+]
